@@ -13,7 +13,7 @@ fn main(){
 
 //  created function
 fn trial () {
-    let say_something = "Hey it's a new year and we are here to milk it out";
+    let say_something = "Hey it's  a new year and we are here to milk it out";
 
     println! ("{}",say_something);
 
