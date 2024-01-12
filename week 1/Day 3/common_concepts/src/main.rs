@@ -1,6 +1,6 @@
 fn main() {
     let mut age = 20;
-    const NAME = "Bless";
+    const NAME: String = "Bless";
 
     println!("{NAME} is now {age} years old");
 
