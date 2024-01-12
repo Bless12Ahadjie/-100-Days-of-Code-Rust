@@ -1,27 +1,27 @@
 fn main() {
     // ****Variables and Constants******
-    // let mut age = 20;
-    // const NAME:&str = "Bless";
+    let mut age = 20;
+    const NAME:&str = "Bless";
 
-    // println!("{NAME} is now {age} years old");
+    println!("{NAME} is now {age} years old");
 
-    // age = 26;
+    age = 26;
 
-    // println! ("{NAME} should be {age}  years old next 6 years");
+    println! ("{NAME} should be {age}  years old next 6 years");
 
 
 
     //*** Shadowing ****/
-    // let x = 5 ;
-    // let x = x + 1;
+    let a = 5 ;
+    let a = a + 1;
 
-    // {
-    //     let x = x * 2;
+    {
+        let a = a * 2;
 
-    //     println! ("the inner scope is {x}")
-    // }
+        println! ("the inner scope is {a}")
+    }
 
-    // println! ( "The outer scope becomes {x}")
+    println! ( "The outer scope becomes {a}")
 
 
     //*** datatypes ****/
@@ -30,18 +30,18 @@ fn main() {
     8,16,32,64 etc
      */
 
-    // let  y: u8 = 24;
-    // let  z: u32 = 2;
+    let  y: u8 = 24;
+    let  z: u32 = 2;
 
-    // println!("{y} {z}");
+    println!("{y} {z}");
 
       /* 
         floats can be assigned using "F" folllowed by the but say f32 or f64
      */
 
-    // let flowt: f32 = 2.34;
+    let flowt: f32 = 2.34;
 
-    // println! ("{flowt}")
+    println! ("{flowt}")
 
           /* 
         boolean type using "bool"
