@@ -25,12 +25,31 @@ fn main() {
 
 
     //*** datatypes ****/
+    /* 
+    with integers ypu can use i fo signed or u for unsigned and then specify the bit you wan to use say
+    8,16,32,64 etc
+     */
 
-    let  y: u8 = 24;
-    let  z: u32 = 2;
+    // let  y: u8 = 24;
+    // let  z: u32 = 2;
 
-    println!("{y} {z}");
+    // println!("{y} {z}");
 
+      /* 
+        floats can be assigned using "F" folllowed by the but say f32 or f64
+     */
+
+    // let flowt: f32 = 2.34;
+
+    // println! ("{flowt}")
+
+          /* 
+        boolean type using "bool"
+     */
+
+    let t: bool = true;
+
+    println! ("{t}")
 
 
 
