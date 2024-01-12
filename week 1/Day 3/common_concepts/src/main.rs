@@ -12,7 +12,7 @@ fn main() {
     let x = x + 1;
 
     {
-        let x = 5 * 2;
+        let x = x * 2;
 
         println! ("the inner scope is {x}")
     }
