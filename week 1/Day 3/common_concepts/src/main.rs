@@ -18,10 +18,10 @@ fn main() {
     {
         let a = a * 2;
 
-        println! ("the inner scope is {a}")
+        println! ("the inner scope is {a}");
     }
 
-    println! ( "The outer scope becomes {a}")
+    println! ( "The outer scope becomes {a}");
 
 
     //*** datatypes ****/
@@ -41,7 +41,7 @@ fn main() {
 
     let flowt: f32 = 2.34;
 
-    println! ("{flowt}")
+    println! ("{flowt}");
 
           /* 
         boolean type using "bool"
@@ -55,17 +55,9 @@ fn main() {
         character type using "char"
      */
 
-    let c = 'z';
+    let c = 'c';
     let z: char = 'ℤ'; 
-    println!("{z}");
-
-
-
-
-
-
-
-
+    println!("{z} and {c}");
 
 
 
