@@ -1,5 +1,5 @@
 fn main() {
-    // Variables and Constants
+    // ****Variables and Constants******
     // let mut age = 20;
     // const NAME:&str = "Bless";
 
@@ -8,14 +8,38 @@ fn main() {
     // age = 26;
 
     // println! ("{NAME} should be {age}  years old next 6 years");
-    let x = 5 ;
-    let x = x + 1;
 
-    {
-        let x = x * 2;
 
-        println! ("the inner scope is {x}")
-    }
 
-    println! ( "The outer scope becomes {x}")
+    //*** Shadowing ****/
+    // let x = 5 ;
+    // let x = x + 1;
+
+    // {
+    //     let x = x * 2;
+
+    //     println! ("the inner scope is {x}")
+    // }
+
+    // println! ( "The outer scope becomes {x}")
+
+
+    //*** datatypes ****/
+
+    let  y: u8 = 24;
+    let  z: u32 = 2;
+
+    println!("{y} {z}");
+
+
+
+
+
+
+
+
+
+
+
+
 }
