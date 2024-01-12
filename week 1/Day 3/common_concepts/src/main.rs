@@ -49,7 +49,15 @@ fn main() {
 
     let t: bool = true;
 
-    println! ("{t}")
+    println! ("{t}");
+
+          /* 
+        character type using "char"
+     */
+
+    let c = 'z';
+    let z: char = 'ℤ'; 
+    println!("{z}");
 
 
 
