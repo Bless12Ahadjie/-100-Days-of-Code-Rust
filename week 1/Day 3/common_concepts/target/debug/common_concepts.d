@@ -1,0 +1,1 @@
+C:\Users\BlessAhadjie\OneDrive\ -\ AmaliTech\ gGmbH\Documents\GitHub\-100-Days-of-Code-Rust\week\ 1\Day\ 3\common_concepts\target\debug\common_concepts.exe: C:\Users\BlessAhadjie\OneDrive\ -\ AmaliTech\ gGmbH\Documents\GitHub\-100-Days-of-Code-Rust\week\ 1\Day\ 3\common_concepts\src\main.rs
