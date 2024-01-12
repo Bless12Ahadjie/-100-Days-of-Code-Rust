@@ -1,9 +1,10 @@
 fn main() {
     let mut age = 20;
+    const NAME = "Bless";
 
-    println!("You are now {age} years old");
+    println!("{NAME} is now {age} years old");
 
     age = 26;
 
-    println! ("You should be {age}  years old next 6 years");
+    println! ("{NAME} should be {age}  years old next 6 years");
 }
