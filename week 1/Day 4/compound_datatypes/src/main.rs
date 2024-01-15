@@ -32,3 +32,6 @@ fn main() {
 
     println!("{hold}");
 }
+fn mine_func(){
+    println!("This is my function");
+}
