@@ -14,5 +14,5 @@ fn add (num1:u32 , num2: u32){
 //main function
 fn main() {
    add(4,16);
-//    my_func();
+   my_func();
 }
