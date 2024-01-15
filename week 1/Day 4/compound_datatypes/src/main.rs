@@ -20,4 +20,9 @@ fn main() {
     let say = ar[2];
 
     println!("index 2 holds {say}");
+
+    let defed: [u8;3] = [3,5,9];
+
+    let second = defed[2];
+    println!("{second}");
 }
