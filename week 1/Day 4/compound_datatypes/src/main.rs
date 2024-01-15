@@ -13,4 +13,11 @@ fn main() {
     let one = x.2;
 
     println!("{one}");
+
+    //array
+    //declaring arrays
+    let ar = [1,2,3,4];
+    let say = ar[2];
+
+    println!("index 2 holds {say}");
 }
