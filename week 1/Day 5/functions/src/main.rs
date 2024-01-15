@@ -7,7 +7,7 @@ fn my_func (){
 
 // function with parameter
 fn add (num1:u32 , num2: u32){
-  let sum = num1 + num2;
+  let sum: u32 = num1 + num2;
   println! {"The addition is {sum}"};
 }
 
