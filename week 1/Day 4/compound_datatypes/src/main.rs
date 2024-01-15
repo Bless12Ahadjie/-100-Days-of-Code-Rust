@@ -25,4 +25,10 @@ fn main() {
 
     let second = defed[2];
     println!("{second}");
+
+    // initializing an array
+    let kiss = [1; 4];
+    let hold = kiss[2];
+
+    println!("{hold}");
 }
