@@ -1,5 +1,5 @@
 fn main() {
-   
+   my_func();
 }
 
 fn my_func (){
