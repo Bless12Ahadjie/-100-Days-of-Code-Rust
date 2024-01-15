@@ -31,6 +31,8 @@ fn main() {
     let hold = kiss[2];
 
     println!("{hold}");
+
+    mine_func();
 }
 fn mine_func(){
     println!("This is my function");
