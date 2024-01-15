@@ -34,6 +34,9 @@ fn main() {
 
     mine_func();
 }
+
+
+
 fn mine_func(){
     println!("This is my function");
 }
