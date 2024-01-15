@@ -19,10 +19,12 @@ fn retu (a:i32 , b:i32) ->  i32 {
 
 //main function
 fn main() {
-  let hold = retu(1,4);
-  println!("This return function returns {hold}");
+ println!("This return function returns {}",retu(1,4));
+//   println!("This return function returns {hold}");
 
    add(4,16);
 
    my_func();
 }
+
+//build a basic calcutator function 
