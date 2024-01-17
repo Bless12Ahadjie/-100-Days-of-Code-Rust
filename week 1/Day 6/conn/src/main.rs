@@ -11,4 +11,12 @@ fn main() {
     else {
         println!("You are an align");
     }
+
+    lolo();
+}
+
+fn lolo() {
+    loop {
+        println!("again!");
+    }
 }
