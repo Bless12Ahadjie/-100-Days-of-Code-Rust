@@ -12,9 +12,9 @@ fn main() {
 
     let age: u32 = match age.trim().parse() {
         Ok(num) => num,
-        Err(_) => {
-            println!("Error");
-            0 // or any default value you want to assign in case of an error
+        Err(e) => {
+            println!("Error {}",e);
+            0 
         }
     };
 
