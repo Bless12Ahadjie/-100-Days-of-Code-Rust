@@ -27,7 +27,7 @@ fn main() {
         println!("You are not eligible to vote");
     }
     else {
-        println!("Hey mate ! I think you are an alain");
+        println!("Hey mate! I think you are an alain");
     }
     }
 
