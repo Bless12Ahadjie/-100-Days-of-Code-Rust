@@ -4,6 +4,8 @@ use std::io;
 fn main() {
     let mut age = String::new();
 
+    loop{
+        
     println!("How old are you mate? ");
 
     io::stdin()
@@ -18,6 +20,18 @@ fn main() {
         }
     };
 
-    println!("You are {} years old", age);
+    if age >= 18 {
+        println!("You are eligible to vote");
+    }
+    else if age < 18 {
+        println!("You are not eligible to vote");
+    }
+    else {
+        println!("Hey mate ! I think you are an alain");
+    }
+    }
+
+
+    
 }
 
