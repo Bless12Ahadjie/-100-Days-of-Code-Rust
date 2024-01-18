@@ -28,8 +28,12 @@ fn main() {
     }
     else {
         println!("Hey mate! I think you are an alain");
+  
     }
+
+   
     }
+    
 
 
     
