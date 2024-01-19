@@ -1,0 +1,1 @@
+C:\Users\BlessAhadjie\OneDrive\ -\ AmaliTech\ gGmbH\Documents\GitHub\-100-Days-of-Code-Rust\week\ 2\Day\ 1\ownership_1\target\debug\ownership_1.exe: C:\Users\BlessAhadjie\OneDrive\ -\ AmaliTech\ gGmbH\Documents\GitHub\-100-Days-of-Code-Rust\week\ 2\Day\ 1\ownership_1\src\main.rs
